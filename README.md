@@ -5,7 +5,7 @@ By: **Zainab Sirajo**
 **Features**
 
 - Creates user account using **Java**
-- Displays user id
+- Displays user ID
 - Displays option that user can choose:
   - Display account balance
   - Deposit money into account
