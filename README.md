@@ -4,16 +4,16 @@ By: **Zainab Sirajo**
 
 **Features**
 
-- Creates user account using **Java**
-- Displays user ID
-- Displays option that user can choose:
-  - Display account balance
-  - Deposit money into account
-  - Withdraw money from account
-  - List previous transaction
-  - Exit application
+- creates a user account using **Java**
+- implements a Java GUI application
+allows a user to:
+    - deposit
+    - withdraw
+    - check balance
+    - check previous transactions
+
   
   
 **How to use**
 
-- Application can be run through various means, such as **Terminal** or **Eclipse**
+- Application can be run through various means, such as **Terminal** or **IntelliJ**
